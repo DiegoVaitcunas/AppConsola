@@ -1,0 +1,147 @@
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1DIEGO\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\obligatorio1-20220907T122608Z-001\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+D:\Programacion\SegundoSemestre\Programacion 2\Obligatorio\Parte1\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Programacion\SegundoSemestre\Programacion 2\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Nacho\Downloads\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\obligatorio1AMBOS\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1AMBOS - copia\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1AMBOS - copia\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\.shortcut-targets-by-id\104I4-nDxxdrn6eXlxdXlvDe-XpVkvRcP\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Nacho\Documents\SegundoSemestre\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alvez\OneDrive\Escritorio\ORT\Obligatorio\Ignacio Pataro 288045-Diego Vaitcunas 289389\Programacion2\obligatorio1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

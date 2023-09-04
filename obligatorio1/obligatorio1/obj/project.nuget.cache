@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mE0IR6S0xYojVpwWmNrlwH1pdRqfFqVetcFwp8jNLPM47buhN6qInoOWtL6NkZWDsSg57OhDVUsX+rqdrXVQ1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\ORT\\Obligatorio\\Ignacio Pataro 288045-Diego Vaitcunas 289389\\Programacion2\\obligatorio1\\obligatorio1\\obligatorio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
